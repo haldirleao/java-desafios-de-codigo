@@ -32,5 +32,6 @@ public class SomadeHComNTermos {
         // arrendondado e inteiro.
         h = Math.round(h); // arredondando
         System.out.println((int) h); // cast int para ficar Ok nos testes do desafio.
+       // PS: Achei uma ofensa à Série Harmônica. Mas, fazer o que, se o teste assim quer!
     }
 }
